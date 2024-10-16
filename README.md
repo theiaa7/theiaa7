@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ryan.alsty@gmail.com**
 
-- ⚡ Fun fact **How many Prolog programmers does it take to change a lightbulb?**
+- ⚡ Fun fact **Q : How many Prolog programmers does it take to change a lightbulb?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
